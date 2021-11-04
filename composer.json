@@ -10,7 +10,7 @@
     }
   },
   "require": {
-    "shopware/core": "~6.3.0"
+    "shopware/core": "~6.4.6"
   },
   "extra": {
     "shopware-plugin-class": "JinyaMatomo\\JinyaMatomo",
