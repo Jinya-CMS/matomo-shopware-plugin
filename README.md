@@ -1,4 +1,5 @@
 # This plugin is not actively maintained anymore, check the fork from @tinect for a more recent version
+https://github.com/tinect/matomo-shopware-plugin
 
 # Matomo Shopware 6 Plugin
 
