@@ -1,3 +1,5 @@
+# This plugin is not actively maintained anymore, check the fork from @tinect for a more recent version
+
 # Matomo Shopware 6 Plugin
 
 This plugin for Shopware 6 connects your shop to the Open Source and self-hostable Matomo platform.
